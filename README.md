@@ -1,6 +1,8 @@
-# Udacity_Web Development Nanodegree Program - Weather Journal App
+# Weather Journal App
+The sencond project in the Professional Web Development Nanodegree from Udacity.
 
-## Weather Journal App
-### It’s a web app for getting the date and the tempeature of any state in USA using the zip code depending on "openweathermap.org" database using API and routes to handle the GET & POST requests
-### In addition to a textarea for the user to express about how he feels 
-### And dynamically updating the user interface once the user clicks on the "Generate" button.
+## Objective
+Creating an asynchronous web app that uses Web API and user data to dynamically update the UI in a Weather Journal application.
+
+## Overview
+ Getting the date and the tempeature of any state in USA depending on "https://openweathermap.org/api" with the use of its zip code  in addition to a textarea for the user to express about how he feels and dynamically updating the UI once the user clicks on the "Generate" button.
